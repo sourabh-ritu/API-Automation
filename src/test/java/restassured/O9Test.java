@@ -1,2 +1,3 @@
-package restassured;public class O9Test {
+package restassured;
+public class O9Test {
 }
