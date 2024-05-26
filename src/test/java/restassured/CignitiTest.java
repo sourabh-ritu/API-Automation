@@ -1,2 +1,3 @@
-package restassured;public class CignitiTest {
+package restassured;
+public class CignitiTest {
 }
