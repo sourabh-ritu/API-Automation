@@ -1,2 +1,3 @@
-package restassured;public class Q2Software {
+package restassured;
+public class Q2Software {
 }
